@@ -1,0 +1,22 @@
+name: tyisha.welch
+description: User fork
+version: 1
+author: berenice.weber@gmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: berenice.weber@gmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-04 21:11:50'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Jennette_Hermann:
+    name: Jennette_Hermann
+    description: Really solid info
+    createdAt: '2022-01-04 21:11:50'
+    author: berenice.weber@gmail.com
